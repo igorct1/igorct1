@@ -1,10 +1,10 @@
-<h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou o Igor Tozetti</h1>
+<h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">sou o Igor Tozetti</h1>
 
- 🔥 Me desenvolvendo como Desenvolvedor Web
+ 🔥 Me desenvolvendo como Desenvolvedor Web.
 
- 🔭 Atualmente estou estudando React/Typescript
+ 🔭 Atualmente estou estudando React/Typescript.
 
- ⚡ Sou apaixonado por criptomoedas e todo seu ecossistema, jogo uns games nas horas vagas.
+ ⚡ Sou apaixonado por criptomoedas e todo seu ecossistema, gosto de jogar uns jogos nas horas vagas.
 
 <div align="left">
   <a href="https://github.com/igorct1">
