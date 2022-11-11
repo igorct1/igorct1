@@ -4,8 +4,6 @@
 
  🔭 Atualmente estou estudando React/Typescript.
 
- ⚡ Sou apaixonado por criptomoedas e todo seu ecossistema, gosto de jogar uns jogos nas horas vagas.
-
 <div align="left">
   <a href="https://github.com/igorct1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorct1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
