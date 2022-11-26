@@ -11,8 +11,6 @@
 </div>
 <div style="display: inline_block; text-decoration: none"><br>
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  <img  align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
    <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQGK-oyS4MpRZQ/profile-displayphoto-shrink_200_200/0/1651011496886?e=1665619200&v=beta&t=gtWcz4uNxNsnspjsNwHpt_8XWpmv7L11Mazdy2UqHuY">
