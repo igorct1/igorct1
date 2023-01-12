@@ -4,11 +4,7 @@
 
  🔭 Atualmente estou estudando React/Typescript.
 
-<div align="left">
-  <a href="https://github.com/igorct1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorct1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorct1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block; text-decoration: none"><br>
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <img align="center" alt="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" >
